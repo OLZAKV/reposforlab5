@@ -1,0 +1,8 @@
+C:\Users\alex\Documents\GitHub\reposforlab5\ООП ЛР5\DocumentWorker\bin\Debug\DocumentWorker.exe.config
+C:\Users\alex\Documents\GitHub\reposforlab5\ООП ЛР5\DocumentWorker\bin\Debug\DocumentWorker.exe
+C:\Users\alex\Documents\GitHub\reposforlab5\ООП ЛР5\DocumentWorker\bin\Debug\DocumentWorker.pdb
+C:\Users\alex\Documents\GitHub\reposforlab5\ООП ЛР5\DocumentWorker\obj\Debug\DocumentWorker.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\GitHub\reposforlab5\ООП ЛР5\DocumentWorker\obj\Debug\DocumentWorker.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex\Documents\GitHub\reposforlab5\ООП ЛР5\DocumentWorker\obj\Debug\DocumentWorker.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\GitHub\reposforlab5\ООП ЛР5\DocumentWorker\obj\Debug\DocumentWorker.exe
+C:\Users\alex\Documents\GitHub\reposforlab5\ООП ЛР5\DocumentWorker\obj\Debug\DocumentWorker.pdb

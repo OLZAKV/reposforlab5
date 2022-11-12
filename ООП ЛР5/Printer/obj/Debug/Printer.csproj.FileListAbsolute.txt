@@ -1,0 +1,8 @@
+C:\Users\alex\Documents\GitHub\reposforlab5\ООП ЛР5\Printer\bin\Debug\Printer.exe.config
+C:\Users\alex\Documents\GitHub\reposforlab5\ООП ЛР5\Printer\bin\Debug\Printer.exe
+C:\Users\alex\Documents\GitHub\reposforlab5\ООП ЛР5\Printer\bin\Debug\Printer.pdb
+C:\Users\alex\Documents\GitHub\reposforlab5\ООП ЛР5\Printer\obj\Debug\Printer.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\GitHub\reposforlab5\ООП ЛР5\Printer\obj\Debug\Printer.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex\Documents\GitHub\reposforlab5\ООП ЛР5\Printer\obj\Debug\Printer.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\GitHub\reposforlab5\ООП ЛР5\Printer\obj\Debug\Printer.exe
+C:\Users\alex\Documents\GitHub\reposforlab5\ООП ЛР5\Printer\obj\Debug\Printer.pdb
